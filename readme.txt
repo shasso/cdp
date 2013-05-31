@@ -9,9 +9,8 @@ You should be able to to build it and play with it.
 ************ Notes ****************
 This is a trivial example that demonstrates how to use two design patterns
 to integarte two separately designed components. This example was part of a presentation 
-that I presentet at SEI, SATURN 2013 Software Architecture Conference
-Minneapolis, MN April 29 to May 3, 2013. The actual presentation and the extended paper that 
-descibes the theory behind this code are also uploaded in this folder.
+that I presented at SEI, SATURN 2013 Software Architecture Conference
+Minneapolis, MN April 29 to May 3, 2013. 
 This is work in progress and I have an intention to extend it further. 
 
 Please feel free to contact me with any questions. 
